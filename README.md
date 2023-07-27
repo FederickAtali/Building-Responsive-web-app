@@ -10,3 +10,4 @@ https://getbootstrap.com/docs/5.3/getting-started/introduction/#cdn-links
 
 The code in the index.html is well commented to easy reading
 Go through the code lets together build a mobile first application
+
