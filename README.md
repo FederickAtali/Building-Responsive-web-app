@@ -8,5 +8,5 @@ You need to add boostrap 5 CDN links to the head of your html file.Here is the l
 bootstrap 5
 https://getbootstrap.com/docs/5.3/getting-started/introduction/#cdn-links
 
-The code in the index.html is well commented to ease readily.
+The code in the index.html is well commented to easy reading
 Go through the code lets together build a mobile first application
