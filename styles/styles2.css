@@ -1,0 +1,267 @@
+
+body::before{
+    display: block;
+    content: '';
+  
+}
+@media(min-width:768px){
+    .news-input{
+        width:50%;
+       }
+}
+
+
+
+.navbar-expand{
+  
+    text-decoration: none;
+ 
+ 
+}
+
+.navbar{
+    background-color: rgb(0, 213, 255);
+}
+
+.nav-link{
+    color: black;
+}
+
+
+.nav-link:hover{
+    color: blueviolet !important;
+}
+
+
+
+
+body::before{
+    display: block;
+    content: '';
+    height: 75px;
+}
+
+
+.rounded-circle{
+    width: 60px;
+    height: 60px;
+ 
+}
+
+
+#bambam{
+    margin-top: 10px;
+  }
+
+#btn2{
+    color: white;
+    background-color:  rgb(0, 213, 255);
+ 
+  width: 250px;
+  margin-top: 20px;
+}
+
+ #btn23{
+    margin-top: 20px;
+    width: 250px !important;
+
+ }
+#img1{
+    border-radius: 12px;
+}
+
+#card1{
+  margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+#imageagain{
+    margin-top: 20px;
+    margin-right: 40px;
+}
+
+
+.card:hover{
+    border-color: blueviolet;
+}
+.thinkre{
+    margin-bottom: 20px;
+}
+
+/*
+#secondcard{
+    margin-right:10px;
+} */
+/*
+#card2{
+  margin-left: 12px;
+    
+}*/
+
+/*
+#card3{
+margin-left: -75px;
+   
+}*/
+
+#card01,#card2,#card3{
+    height:400px;
+    width: 250px;
+}
+
+#allcard{
+    background-color: rgb(0, 255, 200);
+}
+
+
+#caradpara{
+    margin-top: 10px;
+    font-size: large !important;
+}
+
+#cardtt{
+    margin-top: 10px;
+}
+
+
+
+
+#horitwo{
+     background-color: rgb(0, 255, 200);
+}
+
+#becomeim{
+    margin-top: 10px;
+}
+
+
+#buttbecome{
+    margin-top: 100px;
+   
+}
+
+#butte34{
+    margin-top: 15px;
+  
+}
+
+.somecoold{
+    margin-bottom: 20px;
+}
+
+#howtosec{
+    margin-bottom: 50px;
+}
+
+#howtomaster{
+    margin-bottom: 50px;
+}
+
+#logom{
+    text-decoration: none;
+   font-size: xx-large;
+    color: brown;
+    font-weight: 900;
+    margin-right: -10 !important;
+    font-family: cursive;
+    
+    
+}
+
+#commua{
+    margin-bottom: 50px;
+   
+}
+
+#havequeries{
+    margin-bottom: 30px;
+    font-size: larger;
+    font-weight: 700;
+    font-family: sans-serif;
+} 
+
+
+
+#cardqueries{
+    height: 270px;
+    background-color: rgb(0, 255, 200);
+}
+
+#aplacecard{
+    margin-left: 30px;
+    height: 270px;
+  
+}
+
+#cardams{
+    margin-top: 250px;
+}
+
+.thnkres{
+   font-weight: 900;
+   margin-bottom: 10px;
+}
+
+#camyam1{
+    margin-right: 10px;
+}
+
+.cardmany2{
+    margin-top: -100px;
+}
+
+.rectarti{
+    margin-left: 56px;
+}
+
+#allheader{
+   text-align: center;
+}
+
+#prititle{
+    margin:5px
+}
+
+#fuidcon,.footamsg{
+    justify-content: space-around;
+  
+}
+
+.gamn{
+    background-color:  rgb(0, 213, 255);
+    width: 100%;
+
+}
+
+.abu1{
+    margin-right: 60px !important;
+}
+
+.abu{
+   margin-top: 60px;
+}
+
+.linksg{
+    margin-left: 30px;
+}
+
+
+#signamm{
+    background-color: grey;
+}
+#gitall{
+    margin-top: 5%;
+    top: 10px;
+    z-index: 2;
+}
+
+
+.navbar li{
+   padding-left: 10px;
+   padding-right: 10px;
+}
+
+#fronbot{
+    color: black;
+}
